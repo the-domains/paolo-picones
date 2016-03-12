@@ -1,0 +1,28 @@
+name: Paolo Picones
+favicon: null
+layout_spectrum: 0.6036978664342314
+typography_spectrum: 0.6501420838758349
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0320739911403507
+  lightness: 0.4726326398085803
+  saturation: 0.45077849994413555
+  rhythmicContrast: 0.6059115440584719
+purpose: []
