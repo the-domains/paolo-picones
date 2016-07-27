@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Paolo Picones]]></title>
         <description><![CDATA[Paolo Picones]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paolo-picones/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 05:40:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 06:26:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paolo-picones/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DOSTv]]></title>
+            <description><![CDATA[<article><h1>DOSTv</h1><p>https://youtu.be/_LZJwom0tas</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14a17904-1d4e-4939-8989-a582a7cd805d.jpg"></article>]]></description>
+            <link>https://youtu.be/_LZJwom0tas</link>
+            <guid isPermaLink="false">ae037708-0c4c-44b7-b710-6822277bbe79</guid>
+            <pubDate>Wed, 27 Jul 2016 06:26:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/80d24402-cf15-4757-a94a-de769624b9e7.jpg">]]></description>
-            <link>undefined1d5e97d6-fc57-44d2-9ed2-f33d8bf5dfd0/index.html</link>
+            <link>https://thegrid.ai/paolo-picones/1d5e97d6-fc57-44d2-9ed2-f33d8bf5dfd0/index.html</link>
             <guid isPermaLink="false">1d5e97d6-fc57-44d2-9ed2-f33d8bf5dfd0</guid>
             <pubDate>Tue, 26 Jul 2016 05:40:44 GMT</pubDate>
         </item>
